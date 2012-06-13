@@ -51,7 +51,7 @@ package
 			
 			
 			TankBase.tankImage = gameImage;
-			var tank = new Tank(160, 384,32,32);
+			var tank = new Tank(144, 384,32,32);
 			mytanks.addChild(tank);
 			
 			var senemy1:SimpleEnemy = new SimpleEnemy(0, 0);
